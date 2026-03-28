@@ -1,0 +1,18 @@
+Stay Safe Online Checklist
+
+Avoid public Wi-Fi for sensitive tasks: don't access bank apps or UPI on college cafe hotspots; use mobile data or a VPN app for encryption.
+
+Double-check UPI transactions: always confirm the recipient's name and amount in the app before approving payments, and set a daily UPI limit to cap losses from scams.
+
+Secure your personal info: don't share Aadhaar, PAN, or bank details on social media or unverified college group chats; cover your screen when entering OTPs in public.
+
+Use unique passwords for every account: Never reuse passwords across college portals, Gmail, and social media. Use a free password manager like Google Password Manager.
+
+Enable two-factor authentication (2FA): Turn on OTP on Google, Instagram, and banking apps. Even if your password leaks, attackers can't log in without the second factor.
+
+Verify links and senders before clicking: hover over suspicious messages or emails to check the real URL, and never enter details on pop-ups claiming to be from your bank or college.
+
+Limit social media oversharing: set profiles to private, avoid posting live locations or room numbers, and block strangers requesting friend connections from "fellow students."
+
+Report incidents quickly: file complaints at National Cyber Crime Portal (cybercrime.gov.in) or call Helpline 1930 for cyber fraud, UPI scams, or harassment—save these contacts now.
+
